@@ -6,13 +6,13 @@ A mod manager for **Black Desert Online**. Inject, restore, and manage your mods
 
 ## Features
 
+- All regions supported
 - One-click inject and restore
 - Mod priority and conflict detection
 - Category system with [Tag] grouping
 - Game file explorer with wildcard search
 - CharacterAO & PartCutDesc auto-generators
 - Profile support
-- All regions supported (EU/NA/KR/SA)
 
 ---
 
@@ -20,7 +20,7 @@ A mod manager for **Black Desert Online**. Inject, restore, and manage your mods
 
 Head to the [Releases](../../releases) page and download the latest `.exe`.
 
-No installation needed - just run it.
+No installation needed - just put it into whatever folder you want and run it.
 
 ---
 
@@ -46,7 +46,6 @@ For a full guide, click **How To Use** inside the app.
 
 - Always close the game before injecting or restoring
 - On patch day: **RESTORE** first, let the game update, then re-inject
-- Original game files are never modified
 
 ---
 
