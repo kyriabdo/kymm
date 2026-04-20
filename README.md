@@ -54,7 +54,7 @@ For a full guide, click **How To Use** inside the app.
 KyMM is an unofficial fan-made tool and is not affiliated with, endorsed by, or associated with Pearl Abyss in any way.
 Use at your own risk. The author takes no responsibility for bans, corrupted files, or any other issues arising from the use of this software.
 This tool is mod-agnostic - it injects whatever files you provide. 
-The author does not create, distribute, or endorse any specific mods, including adult content. You are solely responsible for the mods you choose to use.
+The author does not create, distribute, or endorse any adult content. You are solely responsible for the mods you choose to use.
 Always back up your game files before using any modding tool.
 
 *Made by Kyria - a side project built for the BDO modding community.*
