@@ -1,6 +1,7 @@
 # KyMM - Kyria's Mod Manager
 
 A mod manager for **Black Desert Online**. Inject, restore, and manage your mods without ever touching the game's original files.
+
 💬 Discord: [Kyria's Workshop](https://discord.gg/kUu8UrxEtt)
 ---
 
