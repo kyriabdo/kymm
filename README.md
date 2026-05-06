@@ -11,7 +11,7 @@ A mod manager for **Black Desert Online**. Inject, restore, and manage your mods
 - Mod priority and conflict detection
 - Category system with [Tag] grouping
 - Game file explorer with wildcard search
-- CharacterAO & PartCutDesc auto-generators
+- CharacterAO, PartCutDesc, ModelEffectDesc, UVAnimation, ParticleVariation auto-generators
 - Profile support
 
 ---
